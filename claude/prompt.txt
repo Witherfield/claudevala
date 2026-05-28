@@ -1,0 +1,13 @@
+I will paste a runo from Kalevala.
+
+I want you to create an Excel file according to the following instructions.
+
+I want you to go through each verse and do the following:
+
+- put verse in its original form into column A,
+- put verse as you would say it in modern Finnish into column B (do not change words, only their forms from archaic to modern, example: laulamahan > laulamaan),
+- put basic form of Finnish words into column C (example: "Mieleni minun tekevi" in A > "mieli, minä, tehdä" in C),
+- put translations of the Finnish words into column D (example: "Mieleni minun tekevi" in A > "mind, I, to make/to do" in D),
+- put remarks in column E if a verse can be somehow connected to the figure of trickster, tricksterness, or its general attributes.
+
+https://www.gutenberg.org/cache/epub/7000/pg7000.txt
