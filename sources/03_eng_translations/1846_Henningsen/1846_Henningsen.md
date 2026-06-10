@@ -1,3 +1,7 @@
+#### HENNINGSEN, Charles Frederick, 1846, "Finland and Its Literature", [w:] *Eastern Europe and the Emperor Nicholas*, Tom II, T. C. Newby, s. 154-210.
+
+---
+
 # CHAPTER VIII
 
 ## FINLAND AND ITS LITERATURE
