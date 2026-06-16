@@ -3,7 +3,7 @@ from pathlib import Path
 from pypdf import PdfReader, PdfWriter
 
 CURRENT_FOLDER = Path(os.path.dirname(os.path.realpath(__file__)))
-INPUT_FILE = os.path.join(CURRENT_FOLDER, "1.pdf")
+INPUT_FILE = os.path.join(CURRENT_FOLDER, "Kalevala (Litwiniuk).pdf")
 OUTPUT_DIR = os.path.join(CURRENT_FOLDER, "output")
 
 if not os.path.exists(OUTPUT_DIR):
