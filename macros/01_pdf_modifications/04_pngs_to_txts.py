@@ -22,7 +22,7 @@ for filename in sorted(os.listdir(INPUT_FOLDER)):
 
     text = pytesseract.image_to_string(
         Image.open(image_path),
-        lang="pol+fin"
+        lang="eng+fin"
     )
 
     output_path = os.path.join(
